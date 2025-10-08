@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Fundo.jpg" alt="Minecraft Banner"/>
+  <img src="Fundo.jpeg" alt="Minecraft Banner"/>
 </p>
