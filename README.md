@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Fundo.JPEG" alt="Minecraft Banner"/>
+  <img src="Fundo.jpeg" alt="Minecraft Banner"/>
 </p>
 
 <p align="center">
-  <img src="Meu-Github.PNG" alt="Meu Titulo"/>
+  <img src="Meu-Github.png" alt="Meu Titulo"/>
 </p>
 
 <img src="https://i.imgur.com/item_pickaxe.png" width="20"> Atualmente construindo códigos.
