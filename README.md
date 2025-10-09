@@ -20,7 +20,7 @@
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
-### <img src="https://i.imgur.com/y4s2Jh3.png" width="20"> Minhas Estatísticas
+❤️ Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardo849&show_icons=true&hide_border=true&count_private=true&bg_color=624A2E&text_color=FFFFFF&title_color=7CFC00&icon_color=7CFC00" alt="Estatísticas do GitHub" />
