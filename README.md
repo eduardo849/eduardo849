@@ -2,10 +2,6 @@
   <img src="Fundo.jpeg" alt="Minecraft Banner"/>
 </p>
 
-<p align="center">
-  <img src="Meu-Github.png" alt="Meu Titulo"/>
-</p>
-
 👍 Atualmente construindo códigos.
 <br>
 😊 Criando projetos em Java, C# e Web.
