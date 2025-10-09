@@ -6,11 +6,11 @@
   <img src="Meu-Github.png" alt="Meu Titulo"/>
 </p>
 
-<img src="https://i.imgur.com/item_pickaxe.png" width="20"> Atualmente construindo códigos.
+<img src="https://i.imgur.com/5JpZk0a.png" width="20"> Atualmente construindo códigos.
 <br>
-<img src="https://i.imgur.com/item_crafting_table.png" width="20"> Criando projetos em Java, C# e Web.
+<img src="https://i.imgur.com/wV8Q3g0.png" width="20"> Criando projetos em Java, C# e Web.
 <br>
-<img src="https://i.imgur.com/item_book.png" width="20"> Aprendendo sobre algoritmos e boas praticas de programação.
+<img src="https://i.imgur.com/N5OMc17.png" width="20"> Aprendendo sobre algoritmos e boas praticas de programação.
 
 ### Tecnologias
 <p align="left">
@@ -20,7 +20,7 @@
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
-### <img src="https://i.imgur.com/item_diamond.png" width="30"> Minhas Estatísticas
+### <img src="https://i.imgur.com/y4s2Jh3.png" width="20"> Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardo849&show_icons=true&hide_border=true&count_private=true&bg_color=624A2E&text_color=FFFFFF&title_color=7CFC00&icon_color=7CFC00" alt="Estatísticas do GitHub" />
